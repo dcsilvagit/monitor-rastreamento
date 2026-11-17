@@ -1,0 +1,27 @@
+# Arquivos de ambiente e credenciais sensíveis
+.env
+.env.local
+.env.*.local
+
+# Dados pessoais de rastreamento (use pacotes.txt.example como modelo)
+pacotes.txt
+
+# Logs e estados de execução
+*.log
+monitor.log
+.last_daily_report
+
+# Python cache e bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# IDE e editores
+.vscode/
+.idea/

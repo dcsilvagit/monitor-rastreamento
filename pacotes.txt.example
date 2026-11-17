@@ -1,0 +1,12 @@
+# Arquivo de pacotes monitorados
+# Formato: CODIGO | DESCRICAO | ULTIMO_STATUS | ULTIMA_DATA_HORA | LOCALIDADE
+#
+# Palavras-chave reconhecidas na descrição para roteamento automático:
+#   shopee / spx  → Shopee Express (SPX)
+#   anjun         → Anjun Express Brasil
+#   ali / cainiao → AliExpress / Cainiao Global
+#
+# Exemplo de entradas:
+# NN463625675BR   | Produto AliExpress
+# BR2650672115555 | Produto Shopee
+# AJ12345644      | Produto Anjun
